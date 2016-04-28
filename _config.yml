@@ -57,7 +57,7 @@ members:
         url: http://twitter.com/irvined
   - name: Alan Stanley
     position: Developer
-    text: Lead programmer. Islandora, Drupal, and WordPress developer. 
+    text: Lead programmer. Islandora, Drupal, and WordPress developer. Works with clients to design and implement customized solutions.
     img: team02.jpg
     social:
       - title: envelope #use for email address
@@ -66,7 +66,7 @@ members:
         url: http://twitter.com/AStanley_AHA
   - name: Rosie Le Faive
     position: Developer
-    text: Digital librarian, Drupal and Islandora developer, UX/UI specialist.
+    text: Digital librarian. Drupal and Islandora developer. Metadata and data migration. CAD modelling. Specialist in UX/UI design and accessibility. 
     img: team03.jpg
     social:
       - title: envelope #use for email address
@@ -75,13 +75,22 @@ members:
         url: http://twitter.com/rosielefaive
   - name: Bill Kennedy
     position: Designer
-    text: Director of the Intelligent Machines collective. Designs and consults on Agile projects.
+    text: Member of the Intelligent Machines collective. Graphic design, UX, information architecture, project management, eCommerce and eBooks, digital archive and metadata consulting, mobile apps.  
     img: team04.jpg
     social:
       - title: envelope #use for email address
         url: mailto:bill@intelligentmachines.ca
       - title: twitter
         url: http://twitter.com/stop14
+  - name: David John Evans
+    position: Developer
+    text: Programmer. Islandora and Drupal developer.
+    img: team05.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:david@djevans.info
+      - title: twitter
+        url: https://twitter.com/davidjohnevans
     
 # Clients information. Shown on Home and About pages.
 clients:
@@ -101,4 +110,4 @@ about: "Make it agile, by design."
 testimonial:
     message: "Digital Humanities at Berkeley itself has contracted with Agile Humanities Agency for its branding and website design, as well for technical work associated with numerous individual research projects funded by Berkeley DH seed grants. Agile also executed the Mellon-funded work on DiRT when we recognized that there was no viable way to do it on campus. In addition to being considerably more affordable than the large, commercially oriented Drupal development companies that UC Berkeley uses for departmental websites, Agile is run by Dean Irvine, a professor who is himself a digital humanist. In addition to providing the necessary “humanities-to-techie” translation for his programmers (who have themselves worked on numerous digital humanities projects, and are more familiar with the needs and requirements of these projects than most developers), Dean is a valuable advisor on issues of project design, thanks to his own extensive background developing successful, sustainable digital humanities projects."
     author: Quinn Dombrowski
-    position: Digital Humanities Specialist - berkeley.edu
+    position: Digital Humanities Specialist -- berkeley.edu
