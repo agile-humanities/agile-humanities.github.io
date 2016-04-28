@@ -48,7 +48,7 @@ tel: 416.277.5696
 members:
   - name: Dean Irvine
     position: Director
-    text: Founded the agency in 2013.
+    text: Founder and director. Coordinates networks, manages partnerships, prepares quotes, negotiates contracts, consults with clients.
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -57,7 +57,7 @@ members:
         url: http://twitter.com/irvined
   - name: Alan Stanley
     position: Developer
-    text: Islandora and Drupal developer.
+    text: Lead programmer. Islandora, Drupal, and WordPress developer. 
     img: team02.jpg
     social:
       - title: envelope #use for email address
@@ -75,7 +75,7 @@ members:
         url: http://twitter.com/rosielefaive
   - name: Bill Kennedy
     position: Designer
-    text: Director of the Intelligent Machines collective.
+    text: Director of the Intelligent Machines collective. Designs and consults on Agile projects.
     img: team04.jpg
     social:
       - title: envelope #use for email address
