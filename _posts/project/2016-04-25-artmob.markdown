@@ -1,0 +1,21 @@
+---
+layout: project
+title:  ARTMOB
+date:   2016-04-25 16:54:46
+author: Dean Irvine
+categories:
+- project
+img: portfolio_01.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Islandora, Copyright, Fair-dealing, Development
+client: York University
+website: http://artmob.ca
+---
+ARTMOB
+
+Artmob is a multimedia digital archiving platform for Canadian arts organizations. As a multisectoral initiative, Artmob is designed to build large, accessible online archives of publicly licensed Canadian cultural content, addressing issues surrounding creator rights and copyright laws in the digital age.
+
+Agile has partnered with Rosemary Coombe and Christopher Innes at York University to create a customized Islandora repository and migrate the project’s archived data.

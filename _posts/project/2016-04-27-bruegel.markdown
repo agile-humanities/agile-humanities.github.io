@@ -1,0 +1,24 @@
+---
+layout: project
+title:  IMAGE INVESTIGATION TOOL
+date:   2016-04-27 16:54:46
+author: Alan Stanley, Rosie Le Faive
+categories:
+- project
+img: portfolio_08.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Development, Drupal, JavaScript, PHP
+client: University of California at Berkeley
+website: http://janbrueghel.net
+---
+IMAGE INVESTIGATION TOOL
+
+The Image Investigation Tool module will service the Brueghel Family research websites (1. Bruegel Family, 2. Jan Brueghel, 3. Pieter Brueghel), which are designed as “conjoined triplets” that share both code and database using the Domain Access module. While Domain Access allows for a different look and feel for each of the three Brueghel sites, restricting access to the IIT based on domain is not a priority. The IIT’s cataloguing function need not depend on the Domain Access module.
+
+The Image Investigation Tool is custom Javascript/PHP that allows users to look at two selected images in a side-by-side view and zoom in on the details of those images. The current iteration of IIT has pushed the framework as far as it can comfortably go. The current code must be refactored with newer more robust image manipulation libraries before we attempt to integrate new functionality.
+
+Compatible libraries will be required to allow images to be resized, rotated, saved and compared. The existing framework for harvesting and storing individual libraries will remain intact. Native Drupal will be used to persist and organize the manipulated images. 
