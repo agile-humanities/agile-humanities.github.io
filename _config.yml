@@ -75,7 +75,7 @@ members:
         url: http://twitter.com/rosielefaive
   - name: Bill Kennedy
     position: Designer
-    text: Member of the Intelligent Machines collective. Graphic design, UX, information architecture, project management, eCommerce and eBooks, digital archive and metadata consulting, mobile apps.  
+    text: Member of the Intelligent Machines collective. Graphic design, UX, information architecture, project management, eCommerce and eBooks, mobile apps.
     img: team04.jpg
     social:
       - title: envelope #use for email address
@@ -91,18 +91,51 @@ members:
         url: mailto:david@djevans.info
       - title: twitter
         url: https://twitter.com/davidjohnevans
-    
+  - name: Dana Wheeles
+    position: Project manager
+    text: Project management, content curation, information architecture, UX/UI design, metadata.
+    img: team06.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:dana@danawheeles.com
+      - title: twitter
+        url: https://twitter.com/bluesaepe      
+  - name: Wolf Maul
+    position: Developer
+    text: Owner of Semandra, Inc. Drupal, Islandora, Joomla, and WordPress. UX/UI, graphic design, theming, SEO, interactive data visualizations, semantic web/open data, mobile apps.
+    img: team07.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:wolf@semandra.com
+      - title: twitter
+        url: https://twitter.com/wolfularity
+  - name: Milena Radzikowska
+    position: Interaction designer
+    text: Text visualization, manufacturing decision support, interaction design, experimental interface design, prototyping.
+    img: team08.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:mradzikowska@gmail.com
+      - title: twitter
+        url: https://twitter.com/CanDesignLove     
 # Clients information. Shown on Home and About pages.
 clients:
   - name: Digital Humanities at Berkeley
     img: client01.png
-  - name: DH Commons
+  - name: Yale University
     img: client02.png
-  - name: The Modernism Lab at Yale
+  - name: University of Virginia
     img: client03.png
-  - name: Open Modernisms
+  - name: University of California at Berkeley
     img: client04.png
-    
+  - name: University of Victoria
+    img: client05.png
+  - name: York University
+    img: client06.png
+  - name: Northeastern University
+    img: client07.png
+  - name: Vancouver Island University
+    img: client08.png  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Make it agile, by design."
 
@@ -110,4 +143,4 @@ about: "Make it agile, by design."
 testimonial:
     message: "Digital Humanities at Berkeley itself has contracted with Agile Humanities Agency for its branding and website design, as well for technical work associated with numerous individual research projects funded by Berkeley DH seed grants. Agile also executed the Mellon-funded work on DiRT when we recognized that there was no viable way to do it on campus. In addition to being considerably more affordable than the large, commercially oriented Drupal development companies that UC Berkeley uses for departmental websites, Agile is run by Dean Irvine, a professor who is himself a digital humanist. In addition to providing the necessary “humanities-to-techie” translation for his programmers (who have themselves worked on numerous digital humanities projects, and are more familiar with the needs and requirements of these projects than most developers), Dean is a valuable advisor on issues of project design, thanks to his own extensive background developing successful, sustainable digital humanities projects."
     author: Quinn Dombrowski
-    position: Digital Humanities Specialist -- berkeley.edu
+    position: Digital Humanities Specialist – berkeley.edu
