@@ -137,10 +137,10 @@ clients:
   - name: Vancouver Island University
     img: client08.png  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Make it agile, by design."
+about: "Agile networks. Collaborative consultation. Open-source innovation. Make it agile, by design."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Digital Humanities at Berkeley itself has contracted with Agile Humanities Agency for its branding and website design, as well for technical work associated with numerous individual research projects funded by Berkeley DH seed grants. Agile also executed the Mellon-funded work on DiRT when we recognized that there was no viable way to do it on campus. In addition to being considerably more affordable than the large, commercially oriented Drupal development companies that UC Berkeley uses for departmental websites, Agile is run by Dean Irvine, a professor who is himself a digital humanist. In addition to providing the necessary “humanities-to-techie” translation for his programmers (who have themselves worked on numerous digital humanities projects, and are more familiar with the needs and requirements of these projects than most developers), Dean is a valuable advisor on issues of project design, thanks to his own extensive background developing successful, sustainable digital humanities projects."
+    message: "Digital Humanities at Berkeley has contracted with Agile Humanities Agency for its branding and website design, as well for technical work associated with numerous individual research projects funded by Berkeley DH seed grants. Agile also executed the Mellon-funded work on DiRT when we recognized that there was no viable way to do it on campus. In addition to being considerably more affordable than the large, commercially oriented Drupal development companies that UC Berkeley uses for departmental websites, Agile is run by Dean Irvine, a professor who is himself a digital humanist. In addition to providing the necessary “humanities-to-techie” translation for his programmers (who have themselves worked on numerous digital humanities projects, and are more familiar with the needs and requirements of these projects than most developers), Dean is a valuable advisor on issues of project design, thanks to his own extensive background developing successful, sustainable digital humanities projects."
     author: Quinn Dombrowski
     position: Digital Humanities Specialist – berkeley.edu
