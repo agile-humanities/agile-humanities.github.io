@@ -15,7 +15,7 @@ tagged: Design, Drupal
 client: University of California at Berkeley
 website: http://digitalhumanities.berkeley.edu
 ---
-DIGITAL HUMANITIES AT BERKELEY
+# DIGITAL HUMANITIES AT BERKELEY
 
 “Digital Humanities at Berkeley supports the thoughtful application of digital tools and methodologies to humanistic inquiry by offering project consulting, summer workshops, grants for collaborative research and new courses, and other activities at UC Berkeley.
 

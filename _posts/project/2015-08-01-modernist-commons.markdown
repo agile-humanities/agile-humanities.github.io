@@ -15,7 +15,7 @@ tagged: Development, Islandora
 client: Editing Modernism in Canada
 website: http://modernistcommons.ca
 ---
-MODERNIST COMMONS
+# MODERNIST COMMONS
 
 Modernist Commons is a digital repository of source materials, collection of critical editions and articles, and suite of editing tools. Managed by Editing Modernism in Canada, this site has been designed to allow users to ingest images, process texts with optical character recognition software, perform markup on transcriptions and images, append critical apparatuses, collate multiple versions, and display editions in a multimedia viewer. The platform integrates a number of open-source tools (Islandora, CWRC Writer, Shared Canvas, Calliope, and CollateX).
 

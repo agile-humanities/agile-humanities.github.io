@@ -11,11 +11,11 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-tagged: Development, Islandora
+tagged: Development, Islandora, Creative Commons
 client: University of Victoria
 website: http://openmods.uvic.ca
 ---
-OPEN MODERNISMS
+# OPEN MODERNISMS
 
 "In 2014, an email went out over the Modernist Studies Association Listserv that asked, “can anyone recommend a complete anthology of modernist works?” Scholars and teachers have diverse needs in the classroom--and there is no single anthology (nor could there be) to fit the needs of every teacher of modernity. For decades, the coursepack has filled a niche in the academic environment to address this need: teachers compile a bespoke book of texts that are sent off the printer for students to purchase. But with rising publishing and copyright prices, these coursepacks become more and more expensive every year. This led to Open Modernisms asking: What if we built a site where teachers could create free coursepacks of out-of-copyright material? No fees, no printing costs for students, just a collaboratively built site where teachers and students could share, remix, and create free modernist reading resources.
 

@@ -15,7 +15,7 @@ tagged: Development, Drupal
 client: University of California at Berkeley
 website: http://dirtdirectory.org
 ---
-DiRT DIRECTORY
+# DiRT DIRECTORY
 
 “The DiRT directory now shows uptake information -- which projects are using each listed tool -- to help digital humanists decide which of the many available choices best fits their specific research project. Ever since the DiRT wiki was rebuilt using a more robust, flexible content management system, we envisioned that the site would be able to pull in information about how tools are actually being used. This kind of information is essential to help users decide among the tens or hundreds of tools that could potentially be used to accomplish a particular task. Thanks to the generous support of the Andrew W. Mellon Foundation and the skill and expertise of the Agile Humanities Agency, DiRT tool profiles now include links to projects that use that tool, drawn from the DHCommons project directory.
 

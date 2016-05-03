@@ -15,7 +15,7 @@ tagged: Development, Drupal, JavaScript, PHP
 client: University of California at Berkeley
 website: http://janbrueghel.net
 ---
-IMAGE INVESTIGATION TOOL
+# IMAGE INVESTIGATION TOOL
 
 The Image Investigation Tool module will service the Brueghel Family research websites (1. Bruegel Family, 2. Jan Brueghel, 3. Pieter Brueghel), which are designed as “conjoined triplets” that share both code and database using the Domain Access module. While Domain Access allows for a different look and feel for each of the three Brueghel sites, restricting access to the IIT based on domain is not a priority. The IIT’s cataloguing function need not depend on the Domain Access module.
 
