@@ -13,9 +13,9 @@ img: post02.jpg
 thumb: thumb02.jpg
 ---
 
-    do not change IBM into International Busa Machines
+>do not change IBM into International Busa Machines
 
-    – Thomas J. Watson, in conversation with Father Roberto Busa
+>– Thomas J. Watson, in conversation with Father Roberto Busa
 
 Contrary to anachronistic origin stories of the digital humanities, Father Roberto Busa’s earliest experiments in humanities computing were conducted using analogue technologies and mechanical instruments. 
 <!--more-->

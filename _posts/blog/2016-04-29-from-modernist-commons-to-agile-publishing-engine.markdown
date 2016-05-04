@@ -26,7 +26,7 @@ EMiC has already demonstrated the capability of publishing critical editions thr
 
 First, we plan to extend the Modernist Commons' multimodal functionality to accommodate not just critical editions but multiple scholarly genres (monographs, essay collections, anthologies, etc.) and integrate a production workflow designed for scholarly publishing. This will require an investment of additional resources in the development of our open-source web-based repository, editorial workbench, and publication platform. 
 
-Second, we will integrate the Drupal-based [ONIXlive][onixlive] storefront and deployment engine, which has already been developed by [Intelligent Machines][IM] collective. Agile’s ongoing collaboration with the IM collective will target a broad client base in the publishing sector. With the combination of the extended functionality of an Islandora-based repository, editorial workbench, and publication platform and the ONIXLive engine and storefront, we will be in a position to deliver a complete production, management, and distribution system for born-digital scholarly publishing.
+Second, we will integrate the Drupal-based [ONIXlive][onixlive] storefront and deployment engine, which has already been developed by the [Intelligent Machines][intelligent] collective. Agile’s ongoing collaboration with the IM collective will target a broad client base in the publishing sector. With the combination of the extended functionality of an Islandora-based repository, editorial workbench, and publication platform and the ONIXLive engine and storefront, we will be in a position to deliver a complete production, management, and distribution system for born-digital scholarly publishing.
 
 **By Design, Cloud, and Open**
 
@@ -42,4 +42,4 @@ APE will be available in three configurations:
 
 [modernist]: http;//modernistcommons.ca 
 
-[IM]: http://www.intelligentmachines.ca/
+[intelligent]: http://www.intelligentmachines.ca/
