@@ -2,13 +2,15 @@
 layout: post
 title: "A Business Prototype for the Digital Humanities"
 date: 2015-09-03 16:54:46
-author: Admin
+author: Dean Irvine
 categories:
 - blog
 - business
-- digital-humanities
-- humanities-computing
+- digital humanities
+- humanities computing
 - IBM
+- Father Roberto Busa
+- angel investors
 img: post02.jpg
 thumb: thumb02.jpg
 ---
@@ -17,9 +19,7 @@ thumb: thumb02.jpg
 
 >>– Thomas J. Watson, in conversation with Father Roberto Busa
 
-Contrary to anachronistic origin stories of the digital humanities, Father Roberto Busa’s earliest experiments in humanities computing were conducted using analogue technologies and mechanical instruments. 
-<!--more-->
-In the preface to his first machine-generated concordance, the *Varia Specimina* of 1951, Busa foregrounds the analogue mechanics of its computation and production: “The concordance which I am presenting as an example is precisely an off-set reproduction of tabulated sheets turned out by the accounting machine.” Already a specialized type of counting, his concordances enlisted and evolved into instruments of accounting.
+Contrary to anachronistic origin stories of the digital humanities, Father Roberto Busa’s earliest experiments in humanities computing were conducted using analogue technologies and mechanical instruments. In the preface to his first machine-generated concordance, the *Varia Specimina*of 1951, Busa foregrounds the analogue mechanics of its computation and production: “The concordance which I am presenting as an example is precisely an off-set reproduction of tabulated sheets turned out by the accounting machine.” Already a specialized type of counting, his concordances enlisted and evolved into instruments of accounting.<!--more-->
 
 Busa’s partnership with IBM, which extended over six decades, inaugurated a prototypical business model for humanities computing. “I could recompense IBM in any way except financially,” Busa recalled telling then IBM chairman and CEO Thomas J. Watson prior to their now-legendary meetings in 1949. There were two meetings: the first, at which Busa made his pitch and Watson requested a formal proposal to distribute to his engineers, and the second, at which Watson was prepared to reject the proposal based on a report from his technical team, but changed his mind and decided to support it for a trial period. Busa’s initial partnership was premised, from the onset, on IBM’s ownership of Herman Hollerith’s patents for the card punch machine, as well as card tabulating and sorting machines. Once he entered into this partnership, there was no economically feasible means of porting his proprietary data to another company’s processing machines. Like IBM’s business clients, Busa effectively entered into a licensing agreement, which guaranteed IBM recurrent – if unpredictable – returns on its investment. To end the agreement would not only have brought an end to their partnership; it also would have brought an end to his career-long investment in IBM’s proprietary systems. Exemplary of a sustainable business model, Busa’s partnership with IBM underwent massive technological and institutional changes across the course of more than half a century – a period from 1949 to 2010 that saw their collaborations transition from punch cards to magnetic tape, card readers to mainframes, RAM to CD-ROM, and multivolume bound concordances to Web-based databases. 
 

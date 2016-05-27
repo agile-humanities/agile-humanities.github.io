@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “From Modernist Commons to Agile Publishing Engine”
+title: "From Modernist Commons to Agile Publishing Engine"
 date: 2016-04-29 16:54:46
 author: Dean Irvine
 categories: 
@@ -13,9 +13,8 @@ categories:
 - Cloud
 img: post01.jpg
 thumb: thumb01.jpg
-
 ---
-[Modernist Commons][modernist] is an Islandora-based digital repository, editorial workbench, and critical-edition publication platform designed by [Editing Modernism in Canada][emic] (EMiC). It integrates a wide range of open-source systems and tools (Islandora, Tesseract OCR, CWRC Writer, Shared Canvas, Internet Archive Viewer, Open Seadragon Viewer, Calliope, and CollateX). <!--more-->With these tools, users can ingest images and generate transcriptions, as well as edit and mark up both transcriptions and images using a single graphical interface, which supports overlapping TEI-XML and RDF markup. Users can also perform algorithmically generated collations of transcriptions, which can be visualized in different ways using Calliope and CollateX. The Modernist Commons provides a critical-edition interface so that editors can assemble images, audio and video, critical apparatus, and variant visualizations in a configurable reading environment. Our most recent development has been the migration articles from Yale University’s Modernism Lab to the repository and the integration of an editing interface for creating new articles that allows users to cross-reference other articles in the repository using SOLR-based look-up.
+[Modernist Commons][modernist] is an Islandora-based digital repository, editorial workbench, and critical-edition publication platform designed by [Editing Modernism in Canada][emic] (EMiC). It integrates a wide range of open-source systems and tools (Islandora, Tesseract OCR, CWRC Writer, Shared Canvas, Internet Archive Viewer, Open Seadragon Viewer, Calliope, and CollateX). With these tools, users can ingest images and generate transcriptions, as well as edit and mark up both transcriptions and images using a single graphical interface, which supports overlapping TEI-XML and RDF markup. Users can also perform algorithmically generated collations of transcriptions, which can be visualized in different ways using Calliope and CollateX. The Modernist Commons provides a critical-edition interface so that editors can assemble images, audio and video, critical apparatus, and variant visualizations in a configurable reading environment. <!--more-->Our most recent development has been the migration articles from Yale University’s Modernism Lab to the repository and the integration of an editing interface for creating new articles that allows users to cross-reference other articles in the repository using SOLR-based look-up.
 
 Modernist Commons was initially developed with resources from the Social Sciences and Humanities Research Council of Canada. It was built in collaboration with a consortium of grant-funded research participants and partners. Grants that funded early phases of development are all but finished, so the infrastructure is now maintained through a different economic model and partnership. That new model and partnership includes the support of developers affiliated with the Agile network.
 
