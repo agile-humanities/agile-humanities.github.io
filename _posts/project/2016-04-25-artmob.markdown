@@ -16,6 +16,6 @@ website: http://artmob.ca
 ---
 # ARTMOB
 
-Artmob is a multimedia digital archiving platform for Canadian arts organizations. As a multisectoral initiative, Artmob is designed to build large, accessible online archives of publicly licensed Canadian cultural content, addressing issues surrounding creator rights and copyright laws.
+Artmob is a multimedia digital archiving platform for Canadian arts organizations. As a multisectoral initiative, Artmob is designed to build large, accessible online archives of publicly licensed Canadian cultural content, addressing issues surrounding creator rights and copyright laws in the digital age.
 
 Agile has partnered with Rosemary Coombe and Christopher Innes at York University to support their WordPress sites, develop their Islandora sites, and migrate the project’s archived data to their Fedora Commons repository.
