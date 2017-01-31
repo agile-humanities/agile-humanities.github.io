@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Facilitating Practices of Fair Dealing Online"
-date: 2016-06-13 12:23:46
-author: Dean Irvine
+date: 2016-06-13 16:54:46
+author: Admin
 categories:
 - blog
 - Islandora
@@ -11,6 +11,7 @@ categories:
 - copyright
 img: post04.jpg
 thumb: thumb04.jpg
+
 ---
 	This work will provide a model for managing the challenges of creating digital archives of copyright protected work in an open, publicly transparent manner that fosters relationships of trust. 
 
