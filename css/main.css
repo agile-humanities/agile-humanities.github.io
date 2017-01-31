@@ -1,0 +1,11 @@
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/css/main.css">
+
+.he-wrap { 
+	width: 100%; 
+	box-sizing: border-box; 
+	padding-right: 10px; }
+	
+.he-wrap img { 
+	width: 100%;
+}
