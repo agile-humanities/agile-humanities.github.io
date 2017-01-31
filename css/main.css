@@ -3,6 +3,10 @@
 	padding-right: 10px;
 }
 
+.row {
+	padding: 15px 0;
+}
+
 #headerwrap > .container > .row {
 	padding-top: 70px;
 }
