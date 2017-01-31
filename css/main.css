@@ -2,3 +2,7 @@
 	width: 100%;
 	padding-right: 10px;
 }
+
+#headerwrap > .container > .row {
+	padding-top: 70px;
+}
