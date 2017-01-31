@@ -52,7 +52,7 @@ members:
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:agile.humanities@gmail.com
+        url: mailto:admin@agilehumanities.ca
       - title: twitter
         url: http://twitter.com/irvined
   - name: Alan Stanley
