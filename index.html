@@ -11,19 +11,19 @@ permalink: /
                 <i class="fa fa-cogs"></i>
                 <h4>Agile Networks</h4>
                 <p>Our agency forms "agile networks" among clients and rapidly assembled teams of programmers, designers, consultants, and project managers. These agile configurations change from job to job.</p>
-                <p><br/><a href="http://agilehumanities.ca/about/" class="btn btn-theme">More Info</a></p>
+                <p><a href="http://agilehumanities.ca/about/" class="btn btn-theme">More Info</a></p>
             </div>	
             <div class="col-md-4">
                 <i class="fa fa-users"></i>
                 <h4>Collaborative Consultation</h4>
                 <p>We have a successful track record in seeing projects through all stages of development – from preliminary consulting and grant applications to project management and sustainability.</p>
-                <p><br/><a href="http://agilehumanities.ca/about/" class="btn btn-theme">More Info</a></p>
+                <p><a href="http://agilehumanities.ca/about/" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
                 <i class="fa fa-flask"></i>
                 <h4>Open-source Innovation</h4>
                 <p>We specialize in open-source development, design themes and platforms, create custom modules, tools, and plugins, and recirculate our code through our public GitHub repository.</p>
-                <p><br/><a href="http://agilehumanities.ca/about/" class="btn btn-theme">More Info</a></p>
+                <p><a href="http://agilehumanities.ca/about/" class="btn btn-theme">More Info</a></p>
             </div>	 				
         </div>
     </div><! --/container -->
@@ -50,7 +50,7 @@ permalink: /
         <div class="col-lg-3">
             <h4>Latest Posts</h4>
             <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %} 
+            {% for post in site.categories['blog'] limit:2 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
             {% endfor %} 
         </div>
