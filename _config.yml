@@ -4,7 +4,7 @@
 title: AGILE HUMANITIES AGENCY.
 description: “Agile networks. Collaborative consultation. Open-source innovation.”
 analytics: UA-77147442-1 #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/" #important: start with /
 url: "http://agilehumanities.ca"
 
 # Build settings
