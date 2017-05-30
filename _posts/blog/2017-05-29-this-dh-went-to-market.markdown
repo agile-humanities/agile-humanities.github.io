@@ -11,7 +11,7 @@ categories:
 - indigeneity
 - neoliberalism
 img: post05.jpg
-thumb: thumb01.jpg
+thumb: thumb05.jpg
 ---
 
 *This post is based on a presentation to the Canadian Society of Digital Humanities, at the Congress of Social Sciences and Humanities, Ryerson University, May 29, 2017. You can also navigate the [StoryMap][storymap] that accompanies this script.*
