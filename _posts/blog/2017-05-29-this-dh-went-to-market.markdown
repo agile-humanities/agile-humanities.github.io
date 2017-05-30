@@ -14,7 +14,7 @@ img: post05.jpg
 thumb: thumb05.jpg
 ---
 
-*This post is based on a presentation to the Canadian Society of Digital Humanities, at the Congress of Social Sciences and Humanities, Ryerson University, May 29, 2017. You can also navigate the [StoryMap][storymap] that accompanies this script.*
+*This post is based on a presentation to the Canadian Society for Digital Humanities, at the Congress of Social Sciences and Humanities, Ryerson University, May 29, 2017. You can also navigate the [StoryMap][storymap] that accompanies this script.*
 
 #### Branding DH
 Beginning at Malaspina College (now Vancouver Island University) in 2001 and migrating to the University of Victoria in 2004, the [Digital Humanities Summer Institute][dhsi] (DHSI) has become a kind of UNESCO heritage site for DH pilgrims. As one of those perennial DH travellers returning year by year to the west coast, I've landed at the registration table on the edge of the parking lot at the Craigdarroch Residences and traded my name for an ID badge and institute swag. After a decade I've accumulated a sizable collection of mass-produced relics &ndash; a cupboard of thermal mugs and a drawer of flash drives. All bear the signature brands of DHSI &ndash; its unregistered trademarks, or to put it another way, its marks of *trade*. <!--more-->
