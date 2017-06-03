@@ -15,8 +15,8 @@ tagged: Design, Drupal
 client: Center for New Music and Audio Technologies at UC Berkeley
 website: http://cnmat.berkeley.edu
 ---
-# CENTER FOR NEW MUSIC AND AUDIO TECHNOLOGIES AT UC BERKELEY
+# CENTER FOR NEW MUSIC AND AUDIO TECHNOLOGIES
 
-Complete site redesign and content migration.
+Complete site redesign, custom module development, and content migration.
 
-CNMAT is dedicated to multidisciplinary research and the creative use of sound, linking the concert hall to the laboratory.  It supports a dynamic group of educational, performance and research programs focused on the creative interaction between new music and emerging technologies. 
+CNMAT at UC Berkeley is dedicated to multidisciplinary research and the creative use of sound, linking the concert hall to the laboratory. It supports a dynamic group of educational, performance and research programs focused on the creative interaction between new music and emerging technologies.
