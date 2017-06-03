@@ -1,0 +1,22 @@
+---
+layout: project
+title:  CENTER FOR NEW MUSIC AND AUDIO TECHNOLOGIES
+date:   2017-03-01 16:54:46
+author: Bill Kennedy
+categories:
+- project
+img: portfolio_11.jpg
+thumb: thumb01.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Design, Drupal
+client: Center for New Music and Audio Technologies at UC Berkeley
+website: http://cnmat.berkeley.edu
+---
+# CENTER FOR NEW MUSIC AND AUDIO TECHNOLOGIES AT UC BERKELEY
+
+Complete site redesign and content migration.
+
+CNMAT is dedicated to multidisciplinary research and the creative use of sound, linking the concert hall to the laboratory.  It supports a dynamic group of educational, performance and research programs focused on the creative interaction between new music and emerging technologies. 
