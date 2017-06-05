@@ -121,7 +121,7 @@ members:
         url: https://twitter.com/CanDesignLove     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: Digital Humanities at Berkeley
+  - name: University of London
     img: client01.png
   - name: Yale University
     img: client02.png
@@ -136,7 +136,16 @@ clients:
   - name: Northeastern University
     img: client07.png
   - name: Vancouver Island University
-    img: client08.png  
+    img: client08.png
+  - name: Duke University
+    img: client09.png
+  - name: Columbia University
+    img: client10.png
+  - name: Purdue University
+    img: client11.png
+  - name: King's College London
+    img: client12.png
+      
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Agile networks. Collaborative consultation. Open-source innovation. Make it agile, by design."
 
