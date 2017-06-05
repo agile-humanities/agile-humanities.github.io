@@ -1,0 +1,26 @@
+---
+layout: project
+title:  In the Same Boats
+date:   2017-06-01 16:54:46
+author: Bill Kennedy
+categories:
+- project
+img: portfolio_13.jpg
+thumb: thumb01.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: D3.js, data visualization, Jekyll 
+clients: Duke University, Bard College, Columbia University
+website: http://sameboats.org
+---
+"*In the Same Boats* is a work of multimodal scholarship designed to encourage the collaborative production of humanistic knowledge within scholarly communities. Comprising two interactive visualizations that trace the movements of seminal cultural actors from the Caribbean and wider Americas, Africa, and Europe within the 20th century Afro-Atlantic world, the platform seeks to push back against the ways in which 'Global South' intellectual production has been stubbornly balkanized in the academy, its limits and contours largely determined by imperial metropoles. The project charts the extent to which Caribbean, African, Latin American, European, and Afro-American intellectuals have had opportunities to be in both punctual and sustained conversation with one another: attending the same conferences, publishing in the same journals and presses, active in the same political groups, perhaps even elbow-to-elbow in the same Parisian cafés and on the same transatlantic crossings &ndash; literally and metaphorically in the same boats &ndash; as they circulate throughout the Americas, Africa, Europe, and beyond. Leveraging the affordances of digital technology to facilitate a literal retracing of hemispheric black studies, the project draws attention to multiple sites of potentially interconnected Afro-Atlantic theoretical and creative production. Easily accessible, visually impactful, and content-rich, the combination of these two visualizations proposes a generative resource for twenty-first century scholarship concerning the long-historical impact of Afro-Atlantic figures across a vast networked geo-cultural space."
+
+For more information and/or to participate, please contact project-wranglers Kaiama L. Glover & Alex Gil – [thesameboats@gmail.com][email]
+
+Agile collaborated with the project directors to design and implement D3.js data visualizations. We refined their prototype and rearchitected their code to accommodate scalability. The new data viz went live in March 2017 for a demo and presentation at [Digital Humanities for Caribbean History][DHfCH] at Harvard University. We're continue to work with Alex Gil on the integration of the visualizations into a Jekyll platform.
+ 
+[email]: [mailto:thesameboats@gmail.com]
+[DHfCH]: http://smallaxe.net/sxlive/digital-humanities-caribbean-history-harvard-university
+
