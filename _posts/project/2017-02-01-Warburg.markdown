@@ -1,0 +1,26 @@
+---
+layout: project
+title:  Warburg Digital Library
+date:   2017-02-01 16:54:46
+author: Alan Stanley
+categories:
+- project
+img: portfolio_12.jpg
+thumb: thumb01.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Islandora, digital library
+client: The Warburg Institute at the University of London
+website: https://wardora.kdl.kcl.ac.uk/
+---
+# Warburg Digital Library
+
+[The Warburg Institute][warburg] at the University of London is cross-disciplinary and global. It is concerned with the histories of art and science, and their relationship with superstition, magic, and popular beliefs. Its research is historical, philological, and anthropological. It is dedicated to the study of the survival and transmission of cultural forms &ndash; whether in literature, art, music, or science &ndash; across borders and from the earliest times to the present.
+
+Agile is working with librarians at the institute to create an [Islandora digital library][library] that follows its physical counterpart in employing the unique [classification scheme][scheme] devised by Warburg. The first iteration was launched in early 2017.
+
+[warburg]: http://warburg.sas.ac.uk/
+[library]: https://wardora.kdl.kcl.ac.uk/
+[scheme]: http://warburg.libguides.com/classification
