@@ -1,0 +1,27 @@
+--
+layout: project
+title:  The Deleuze Seminars
+date:   2017-05-01 16:54:46
+author: Bill Kennedy
+categories:
+- project
+img: portfolio_14.jpg
+thumb: thumb01.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Drupal, digital editions, translations 
+client: Purdue University
+website: https://www.cla.purdue.edu/research/deleuze/index.html
+---
+# The Deleuze Seminars
+
+In partnership with the NEH-funded Gilles Deleuze Seminar Translations project, Agile is working with a distributed network of editors and translators. Based at Purdue University and funded by an [Enhancing Research in the Humanities and the Arts Grant][grant], The Deleuze Seminars is allied with the Université Paris 8 site, [La voix de Gilles Deleuze en ligne][voix]. Agile is building a custom-designed Drupal 8 site to host original audio files, transcriptions, and translations and developing workflow tools for project members to manage versions, changes, annotations, work scheduling, and progress reporting. We will be replacing a web [prototype][prototype] developed for earlier stages of research on the Deleuze translations.
+
+Our timeline for release is December 2017.
+
+[grant]: https://www.cla.purdue.edu/research/grantsupport/EnhancingResearch/index.html
+[voix]: http://www2.univ-paris8.fr/deleuze/
+[prototype]: https://www.cla.purdue.edu/research/deleuze/index.html
+ 
