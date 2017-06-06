@@ -12,7 +12,7 @@ carousel:
 - single02.jpg
 - single03.jpg
 tagged: D3.js, data visualization, Jekyll 
-clients: Duke University, Bard College, Columbia University
+client: Duke University, Columbia University
 website: http://sameboats.org
 ---
 # In the Same Boats
@@ -20,7 +20,7 @@ website: http://sameboats.org
 
 For more information and/or to participate, please contact project-wranglers Kaiama L. Glover & Alex Gil – [thesameboats@gmail.com][email]
 
-Agile collaborated with the project directors to design and implement D3.js data visualizations. We refined their prototype and rearchitected their code to accommodate scalability. The new data viz went live in March 2017 for a demo and presentation at [Digital Humanities for Caribbean History][DHfCH] at Harvard University. We're continue to work with Alex Gil on the integration of the visualizations into a Jekyll platform.
+Agile collaborated with the project directors to design and implement D3.js data visualizations. We refined their prototype and rearchitected their code to accommodate scalability. The new data viz went live in March 2017 for a demo and presentation at [Digital Humanities for Caribbean History][DHfCH] at Harvard University. We continue to work with the ITSB collective on the integration of the visualizations into a Jekyll platform.
  
 [email]: [mailto:thesameboats@gmail.com]
 [DHfCH]: http://smallaxe.net/sxlive/digital-humanities-caribbean-history-harvard-university
