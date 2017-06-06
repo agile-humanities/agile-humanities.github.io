@@ -1,12 +1,12 @@
 --
 layout: project
 title:  The Deleuze Seminars
-date:   2017-01-01 16:54:46
+date:   2017-01-15 16:54:46
 author: Bill Kennedy
 categories:
 - project
 img: portfolio_14.jpg
-thumb: thumb01.jpg
+thumb: thumb02.jpg
 carousel:
 - single01.jpg
 - single02.jpg
