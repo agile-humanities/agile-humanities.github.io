@@ -1,0 +1,25 @@
+---
+layout: project
+title:  Sea Ranch Exhibit
+date:   2017-06-15 12:00:00
+author: Bill Kennedy
+categories:
+- project
+img: portfolio_15.jpg
+thumb: thumb01.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Omeka, environmental design, data visualization, StoryMap, Timeline.js, d3.js
+client: Environmental Design Archives, UC Berkeley
+website: http://exhibits.ced.berkeley.edu/
+---
+# Sea Ranch Exhibit
+Agile is partnered with the Environmental Design Archives on the Sea Ranch digitization project and Omeka exhibit at the University of California at Berkeley. 
+
+We are especially pleased to have the opportunity to work on a project that will contribute a robust and versatile suite of visualization tools to the Omeka community. By bringing together the StoryMap.js, Timeline.js, and D3.js libraries, we are creating an Omeka extension that will allow users to create sophisticated, navigable user interfaces for archival resources. 
+
+We're developing an API specification for future development of the extension by other Omeka programmers, which will allow the user community to continue work on functionality that goes beyond the requirements of the Sea Ranch project. Our codebase will be contributed to the Omeka maintainers for wider adoption and extension.
+
+Our dig-in date for the project is  December 2017.
