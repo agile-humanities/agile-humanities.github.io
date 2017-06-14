@@ -137,7 +137,7 @@ members:
         url: mailto:milner.matthew@gmail.com
       - title: twitter
         url: https://twitter.com/milner_matt
- - name: Cliff Wulfman
+  - name: Cliff Wulfman
     position: Developer
     text: Development, databases, and project management. Text encoding and XML technologies, eXistdb, metadata, IIIF.
     img: team11.jpg
