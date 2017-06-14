@@ -103,7 +103,7 @@ members:
         url: https://twitter.com/bluesaepe      
   - name: Wolf Maul
     position: Developer
-    text: Owner of Semandra. Drupal, Islandora, Joomla, & WordPress. UX/UI, graphic design, theming, SEO, data visualizations, semantic web/open data, mobile apps.
+    text: Owner of Semandra. UX/UI, graphic design, theming, SEO, data visualizations, semantic web/open data, mobile apps.
     img: team07.jpg
     social:
       - title: envelope #use for email address
