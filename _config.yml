@@ -118,7 +118,34 @@ members:
       - title: envelope #use for email address
         url: mailto:mradzikowska@gmail.com
       - title: twitter
-        url: https://twitter.com/CanDesignLove     
+        url: https://twitter.com/CanDesignLove
+  - name: Ryan Deschamps
+    position: Developer
+    text: Data analyst. Interactive web visualizations. Programming in Python, R, and Apache Spark / Scala.
+    img: team09.jpg
+    social:
+      -title: envelope
+       url: mailto:ryan.deschamps@gmail.com
+      -title: twitter
+       url: https://twitter.com/ryandeschamps
+  - name: Matthew Milner
+    position: Developer and designer
+    text: UX/UI design, ontologies & taxonomies, historical event modeling, chronometry & calendars, timeline visualizations, multi-modal collaboration, virtual research environments, digital pedagogies.
+    img: team10.jpg
+    social:
+      -title: envelope
+       url: mailto:milner.matthew@gmail.com
+      -title: twitter
+       url: https://twitter.com/milner_matt
+ - name: Clifford Wulfman
+    position: Developer
+    text: Development, databases, and project management. Text encoding and XML technologies, eXistdb, metadata, IIIF.
+    img: team11.jpg
+    social:
+      -title: envelope
+       url: mailto:cwulfman@gmail.com
+      -title: twitter
+       url: https://twitter.com/cwulfman
 # Clients information. Shown on Home and About pages.
 clients:
   - name: University of London
