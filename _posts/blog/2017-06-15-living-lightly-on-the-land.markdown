@@ -16,7 +16,7 @@ thumb: thumb06.jpg
 ---
 The [Environmental Design Archives][eda] (EDA) at the University of California, Berkeley (UCB), in collaboration with the [Architectural Archives of the University of Pennsylvania][upenn] (UPenn), have been awarded a grant from the [National Historical Publications and Records Commission][nhprc] (NHPRC). Under the Access to Historical Records: Archival Projects grant program, the EDA and UPenn will digitize approximately 650 images from collections that highlight the design development of The Sea Ranch, a breakthrough example of environmentally sensitive design that continues to grow in influence and relevance to architects and the public at large.             
 
-![Lawrence Halprin Collection, Eco Score, Architectural Archives (UPenn)](https://github.com/agile-humanities/agile-humanities.github.io/tree/master/assets/img/blog/Ecoscore_cruze.jpg)
+![Lawrence Halprin Collection, Eco Score, Architectural Archives (UPenn)](/assets/img/blog/Ecoscore_cruze.jpg)
 
 Living Lightly on the Land: A Virtual Sea Ranch Design Collection will result in an interactive virtual collection documenting the unique and prescient design and development of The Sea Ranch, through the inclusion of digitized material including: drawings, photographs, essential documents, and ephemera, from the holdings of the EDA collections of Joseph Esherick (EHDD), MLTW, Marquis & Stoller, Dmitri Vedensky, and Barbara Stauffacher Solomon; and drawings, notebooks, moving images, photographs, and project files from the Lawrence Halprin Collection at UPenn. 
 
