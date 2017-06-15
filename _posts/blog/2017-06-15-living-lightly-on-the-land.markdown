@@ -21,17 +21,16 @@ The [Environmental Design Archives][eda] (EDA) at the University of California, 
 **Living Lightly on the Land: A Virtual Sea Ranch Design Collection** will result in an interactive virtual collection documenting the unique and prescient design and development of The Sea Ranch, through the inclusion of digitized material including: drawings, photographs, essential documents, and ephemera, from the holdings of the EDA collections of Joseph Esherick (EHDD), MLTW, Marquis & Stoller, Dmitri Vedensky, and Barbara Stauffacher Solomon; and drawings, notebooks, moving images, photographs, and project files from the Lawrence Halprin Collection at UPenn. 
 
 Using [Omeka][omeka] as a platform, this virtual collection portal will be designed to encourage users to interact with the development of The Sea Ranch through the rich and diverse holdings of the EDA and UPenn topographically, chronologically, by designer, and thematically creating a robust research experience.
-
 ![Donlyn Lyndon Collection, Lyndon Wingwall house (EDA)](/assets/img/blog/DL_2003-9_Lyndon_1.jpg)
-
 Agile is pleased to have the opportunity to work on a project that will contribute a versatile suite of visualization tools to the Omeka community. By bringing together the [StoryMap.js][story], [Timeline.js][time], and [D3.js][d3] libraries, we are creating an Omeka extension that will allow users to create sophisticated, navigable user interfaces for archival resources.
 <!--more-->
-
 We’re developing an [Omeka REST API][api] specification for future development of the extension by other Omeka programmers, which will allow the user community to continue work on functionality that goes beyond the requirements of the Sea Ranch project. Our codebase will be contributed to the Omeka maintainers for wider adoption and extension.
 
 Our dig-in date for the project is September 2017.
 
 ![National Historical Publications and Records Commission](/assets/img/blog/nhprc-logo.jpg)
+
+[eda]: http://archives.ced.berkeley.edu
 
 [nhprc]: https://www.archives.gov/nhprc
 
