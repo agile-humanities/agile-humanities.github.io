@@ -24,14 +24,13 @@ Using Omeka as a platform, this virtual collection portal will be designed to en
 
 ![Donlyn Lyndon Collection, Lyndon Wingwall house (EDA)](/assets/img/blog/DL_2003-9_Lyndon_1.jpg)
 
-
 Agile is pleased to have the opportunity to work on a project that will contribute a versatile suite of visualization tools to the [Omeka][omeka] community. By bringing together the [StoryMap.js][story], [Timeline.js][time], and [D3.js][d3] libraries, we are creating an Omeka extension that will allow users to create sophisticated, navigable user interfaces for archival resources.
 
 We’re developing an [Omeka REST API][api] specification for future development of the extension by other Omeka programmers, which will allow the user community to continue work on functionality that goes beyond the requirements of the Sea Ranch project. Our codebase will be contributed to the Omeka maintainers for wider adoption and extension.
 
 Our dig-in date for the project is September 2017.
 
-/nhprc-logo-l (1).jpg
+![National Historical Publications and Records Commission](/assets/img/blog/nhprc-logo.jpg)
 
 [nhprc]: https://www.archives.gov/nhprc
 
