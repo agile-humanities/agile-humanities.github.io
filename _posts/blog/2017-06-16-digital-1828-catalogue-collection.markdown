@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital 1828 Catalogue Collection"
-date: 2017-06-15 12:23:46
+date: 2017-06-16 12:23:46
 author: Dean Irvine
 categories:
 - blog
@@ -12,6 +12,8 @@ img: post07.jpg
 thumb: thumb07.jpg
 
 ---
+*With thanks to Loren Moulds and Jim Ambuske at the UVA Law Library for the project backstory*
+
 In 1820, Thomas Jefferson believed the new University of Virginia (UVA) would empower the "illimitable freedom of the human mind, to explore and to expose every subject susceptible of it's contemplation." Jefferson envisioned the library as the centerpiece of university life and the foundation of his grand vision for American education. In 1824, he selected 7,000 volumes, including over 700 law books, to fill the library's shelves. Jefferson believed that enabling access to these texts at UVA would overcome economic disparities and create educational opportunities for a broad audience. "Great standard works of established reputation, too voluminous and too expensive for private libraries," he wrote to the university's purchasing agent, "should have a place in every public library, for the free resort of individuals." In Jefferson's mind, an easily accessible library should be one of the cornerstones of a democratic society by allowing citizens and scholars convenient access to knowledge and the tools to create new knowledge. 
 
 ![1828 Catalogue](/assets/img/blog/UVA_1828_breakdown.jpg)*[Visualization of 1828 Catalogue, Law Library, UVA][viz]*
