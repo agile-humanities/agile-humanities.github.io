@@ -23,9 +23,7 @@ The [Environmental Design Archives][eda] (EDA) at the University of California, 
 <!--more-->
 
 Using [Omeka][omeka] as a platform, this virtual collection portal will be designed to encourage users to interact with the development of The Sea Ranch through the rich and diverse holdings of the EDA and UPenn topographically, chronologically, by designer, and thematically creating a robust research experience.
-
-![Donlyn Lyndon Collection, Lyndon Wingwall house (EDA)](/assets/img/blog/DL_2003-9_Lyndon_1.jpg)
-*Donlyn Lyndon Collection, Lyndon Wingwall House (EDA)*
+![Donlyn Lyndon Collection, Lyndon Wingwall house (EDA)](/assets/img/blog/DL_2003-9_Lyndon_1.jpg)*Donlyn Lyndon Collection, Lyndon Wingwall House (EDA)*
 
 Agile is especially excited to have the opportunity to work on a project that will contribute a versatile suite of visualization tools to the Omeka community. By bringing together the [StoryMap.js][story], [Timeline.js][time], and [D3.js][d3] libraries, we are creating Omeka data visualization plugins that will allow users to create sophisticated, navigable user interfaces for archival resources.
 
