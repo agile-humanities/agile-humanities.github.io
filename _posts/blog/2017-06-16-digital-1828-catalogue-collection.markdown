@@ -17,7 +17,8 @@ In 1820, Thomas Jefferson believed the new University of Virginia (UVA) would em
 ![1828 Catalogue](/assets/img/blog/UVA_1828_breakdown.jpg)*[Visualization of 1828 Catalogue, Law Library, UVA][viz]*
  
 The [Digital 1828 Catalogue Collection Project][1828] reconstructs the original corpus of 721 legal texts purchased for the first UVA library and listed in UVA's 1828 Catalogue. The UVA Law Library has been working for forty years to collect these rare legal titles, most of which were originally selected by Thomas Jefferson. The Jefferson Trust has underwritten a student-centered project to build a digital version of this collection using a new tool called the [Virtual Bookshelf][vb]. 
- 
+<!--more-->
+
 Agile has been invited to assess the prototype of the Virtual Bookshelf and its current features:
  
 - Display the volumes relative to each other’s height and thickness 
