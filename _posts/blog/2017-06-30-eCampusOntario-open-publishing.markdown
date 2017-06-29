@@ -22,6 +22,7 @@ Co-ordination and leadership of this   project is driven by a cross-functional t
 
 Together, we'll be prototyping an open publishing system for post-secondary institutions across Ontario. Agile will be responsible for the design and implementation of a WordPress theme that accommodates the [Open Textbook][opentext] app, [Pressbooks plugin] [plugin], and [DSpace][dspace] repository, as well as [Hypothes.is][hypo] annotation, [Lime Survey][lime] review, and [Piwik][piwik] analytics services. We'll be collaborating with the Montreal-based Pressbooks development team at the [Rebus Foundation][rebus] and design team at [Plank][plank]. Pressbooks is a GPL-licensed plugin that transforms a WordPress multisite install into a book production content management system, which exports in multiple formats: ebooks, web books, print-ready PDF, and various kinds of XML. 
 <!--more-->
+
 Agile’s experience in usability testing and UX design, especially for book discovery, will be an asset to the project, as will our network’s long history in digital and print book design, production, and distribution.
 
 Timeline to launch of the prototype is September 2017. This project is made possible thanks to generous funding from eCampusOntario.
