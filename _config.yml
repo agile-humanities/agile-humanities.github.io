@@ -148,7 +148,7 @@ members:
         url: https://twitter.com/cwulfman
   - name: Quinn Dombrowski
     position: Data architect
-    text: Author of **Drupal for Humanists**. Drupal, WordPress, Omeka data modeling, site configuration, project management, documentation.
+    text: Author of Drupal for Humanists. Drupal, WordPress, Omeka data modeling, site configuration, project management, documentation.
     img: team12.jpg
     social:
       - title: envelope #use for email address
