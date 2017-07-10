@@ -146,6 +146,15 @@ members:
         url: mailto:cwulfman@gmail.com
       - title: twitter
         url: https://twitter.com/cwulfman
+  - name: Quinn Dombrowski
+    position: Data architect
+    text: Author of **Drupal for Humanists**. Drupal, WordPress, Omeka data modeling, site configuration, project management, documentation.
+    img: team12.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:quinn.anya@gmail.com
+      - title: twitter
+        url: https://twitter.com/quinnanya
 # Clients information. Shown on Home and About pages.
 clients:
   - name: University of London
