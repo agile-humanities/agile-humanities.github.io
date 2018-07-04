@@ -53,7 +53,7 @@ members:
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:admin@agilehumanities.ca
+        url: mailto:dean@agilehumanities.ca
       - title: twitter
         url: http://twitter.com/irvined
   - name: Alan Stanley
@@ -75,12 +75,12 @@ members:
       - title: twitter
         url: http://twitter.com/rosielefaive
   - name: Bill Kennedy
-    position: Designer
-    text: Member of the Intelligent Machines collective. Graphic design, UX, information architecture, project management, eCommerce and eBooks, mobile apps.
+    position: Senior Designer, Information Architect, Development Lead
+    text: Graphic design, UX, information architecture, project management, eCommerce and eBooks, mobile apps.
     img: team04.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:bill@intelligentmachines.ca
+        url: mailto:bill@agilehumanities.ca
       - title: twitter
         url: http://twitter.com/stop14
   - name: David John Evans
